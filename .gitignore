@@ -3,3 +3,6 @@ __pycache__/
 
 data
 results
+
+# custom added
+fever_data
