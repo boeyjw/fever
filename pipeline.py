@@ -11,7 +11,7 @@ from config_parser import parse
 from fever_io import read_jsonl, save_jsonl
 
 
-root_dir = "**BASE_DIR**"
+root_dir = "/users/k21190024/study/fact-check-transfer-learning/repos/fever/uclnlp"
 @contextmanager
 def environ(env):
     original_environ_dict = os.environ.copy()

@@ -1,6 +1,6 @@
 {
   "__variables": {
-    "___root_dir___": "**BASE_DIR**",
+    "___root_dir___": "/users/k21190024/study/fact-check-transfer-learning/repos/fever/uclnlp",
     "___train_rte___": "base",
     "___inference_rte___": "base",
     "___aggregator___": "base",
